@@ -4,7 +4,7 @@ A Streamlit web app that summarizes any **YouTube video** or **website** in abou
 
 Paste a link, click a button, get a summary.
 
-**🔗 Live demo:** [Open the app on Streamlit](https://your-app-name.streamlit.app) <!-- replace with your Streamlit URL -->
+**🔗 Live demo:** [Open the app on Streamlit]-https://huggingface-langchain-kasjtg4xszqwy2gz5synk2.streamlit.app/
 
 ---
 
